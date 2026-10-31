@@ -49,9 +49,7 @@ Phone-Directory-Call-Management-System/
 │
 ├── phone_directory.py
 ├── COMMAND.txt
-├── README.md
-├── screenshots/
-└── tests/
+└── README.md
 ```
 
 ## How to Run
